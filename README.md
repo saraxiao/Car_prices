@@ -1,0 +1,1 @@
+in this project, we explored the fundamentals of machine learning using the k-nearest neighbors algorithm. specifically, I practice the machine learning workflow to predict a car's market price using its attributes
